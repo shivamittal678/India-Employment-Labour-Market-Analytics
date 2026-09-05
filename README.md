@@ -358,11 +358,11 @@ Male       ≈ 8.35
 
 The dashboard also indicates that average urban unemployment is higher than rural unemployment across the observations included in the analysis.
 
-![Gender and Rural Urban Analysis](Gender & Rural:Urban.png)
+![Gender and Rural Urban Analysis](Gender&Rural:Urban.png)
 
 ---
 
-# 4️⃣ National Employment Trend
+#National Employment Trend
 
 This page focuses on the historical national trend from **2017-18 to 2023-24**.
 
@@ -407,7 +407,7 @@ in 2017-18 to around:
 
 in 2023-24.
 
-![National Employment Trend](07_Images/National_Employment_Trend.png)
+![National Employment Trend](National_emplymentTrend.png)
 
 ---
 
@@ -535,28 +535,28 @@ India-Employment-Labour-Market-Analytics/
 ├── README.md
 │
 ├── 01_Data/
-│   └── india_employment_labour_market_real_data.xlsx
+│           india_employment_labour_market_real_data.xlsx
 │
 ├── 02_Excel/
-│   └── india_employment_excel_analysis.xlsx
+│           india_employment_labourMarket_ExcelWork_.xlsx
 │
 ├── 03_SQL/
-
+        India_Employment_Analysis.sql
 │
 ├── 04_Python/
-│   └── india_employment_eda.ipynb
+│            India_Unemplyment_Analysis.ipynb
 │
 ├── 05_PowerBI/
-│   └── india_employment_dashboard.pbix
+│           india_employment_dashboard.pbix
 │
 ├── 06_Insights/
-│   └── key_insights.md
+│           key_insights.md
 │
 └── 07_Images/
-    ├── India_Employment_Overview.png
-    ├── Youth_Employment.png
-    ├── Gender_Rural_Urban.png
-    └── National_Employment_Trend.png
+           India_EmploymentOverview.png
+           Gender&Rural:Urban.png
+           National_emplymentTrend.png
+           Youth_Employment.png
 ```
 
 ---
