@@ -358,7 +358,7 @@ Male       ≈ 8.35
 
 The dashboard also indicates that average urban unemployment is higher than rural unemployment across the observations included in the analysis.
 
-![Gender and Rural Urban Analysis](Gender&Rural:Urban.png)
+![Gender and Rural Urban Analysis](Gender_Rural_Urban.png)
 
 ---
 
