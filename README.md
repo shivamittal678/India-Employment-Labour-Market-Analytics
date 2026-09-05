@@ -319,7 +319,7 @@ States showing relatively high youth WPR include:
 
 The gender comparison also shows that average female youth unemployment is higher than male youth unemployment in the analysed data.
 
-![Youth Employment](Youth Employment.png)
+![Youth Employment](Youth_Employment.png)
 
 ---
 
