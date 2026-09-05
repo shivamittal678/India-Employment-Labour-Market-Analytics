@@ -1,4 +1,4 @@
-# 🇮🇳 India Employment & Labour Market Analytics
+#India Employment & Labour Market Analytics
 
 ## Project Overview
 
@@ -88,7 +88,7 @@ The historical national trend and 2025 state-level analysis are kept separate be
 
 ---
 
-# 🔄 Project Workflow
+#Project Workflow
 
 ```text
 Public PLFS Data
@@ -112,7 +112,7 @@ Final Project Documentation
 
 ---
 
-# 📗 Excel Analysis
+#Excel Analysis
 
 I started the project in Excel to understand the structure and quality of the data.
 
@@ -286,7 +286,7 @@ Region
 Age Group
 ```
 
-![India Employment Overview](07_Images/India_Employment_Overview.png)
+![India Employment Overview](India_EmploymentOverview.png)
 
 ---
 
@@ -319,7 +319,7 @@ States showing relatively high youth WPR include:
 
 The gender comparison also shows that average female youth unemployment is higher than male youth unemployment in the analysed data.
 
-![Youth Employment](07_Images/Youth_Employment.png)
+![Youth Employment](Youth Employment.png)
 
 ---
 
@@ -358,7 +358,7 @@ Male       ≈ 8.35
 
 The dashboard also indicates that average urban unemployment is higher than rural unemployment across the observations included in the analysis.
 
-![Gender and Rural Urban Analysis](07_Images/Gender_Rural_Urban.png)
+![Gender and Rural Urban Analysis](Gender & Rural:Urban.png)
 
 ---
 
