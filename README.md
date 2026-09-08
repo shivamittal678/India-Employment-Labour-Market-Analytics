@@ -409,7 +409,7 @@ in 2023-24.
 
 ![National Employment Trend](National_emplymentTrend.png)
 
-![Insights and Recommendations](India_Employment_Insights.png)
+![Insights and Recommendations](07_Images/India_Employment_Insights.png)
 
 ---
 
